@@ -1,0 +1,16 @@
+
+
+[
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-std=gnu89",
+            "-o",
+            "unp",
+            "unp.c"
+        ],
+        "directory": "~/projects/ipshow/",
+        "file": "ipshow.c"
+    }
+]
